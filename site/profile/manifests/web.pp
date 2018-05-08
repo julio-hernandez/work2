@@ -1,3 +1,3 @@
-class profile::webb{
+class profile::web{
   include nginx
 }
